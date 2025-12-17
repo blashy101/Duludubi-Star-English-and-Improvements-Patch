@@ -13,14 +13,23 @@ Game's launcher menu thing is mostly in English but just tells you what to do ca
 Game now supports XInput controllers, buttons are mapped as follows:
 
 GamePad A Button -> Right Click
+
 GamePad B Button -> Space Bar
+
 GamePad X Button -> + Key (for Camera Adjustment)
+
 GamePad Y Button -> - Key (for Camera Adjustment)
+
 GamePad LB Button -> Q Key
+
 GamePad RB Button -> E Key
+
 GamePad RT Button -> Left Click
+
 Left Stick and DPad tied to WSAD for movement
+
 Right Stick moves mouse cursor for menuing
+
 Other buttons unused/unmapped
 
 The mouse will still function with a controller connected if you wish to menu with the mouse instead, keyboard is disabled
