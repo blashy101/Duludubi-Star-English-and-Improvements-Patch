@@ -39,3 +39,4 @@ There will be bugs probably, the translation is definitely not accurate because 
 
 Have fun!
 
+(Tested on Windows 10 and 11, appears to be working appropriately)
