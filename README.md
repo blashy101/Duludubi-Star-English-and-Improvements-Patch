@@ -7,7 +7,9 @@ Copy the contents of the zip into your directory with the game's executable, run
 Improvements:
 
 Locale Emulator no longer required, just run the executable and you're good to go
+
 Game's launcher menu thing is mostly in English but just tells you what to do cause the other features don't exist anymore.
+
 Game now supports XInput controllers, buttons are mapped as follows:
 
 GamePad A Button -> Right Click
