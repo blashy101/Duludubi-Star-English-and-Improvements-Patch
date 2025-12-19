@@ -33,6 +33,7 @@ Right Stick moves mouse cursor for menuing
 Other buttons unused/unmapped
 
 The mouse will still function with a controller connected if you wish to menu with the mouse instead, keyboard is disabled
+
 XInput features will not be active when a controller is not connected so you can use mouse/keyboard no problem if you want.
 
 There will be bugs probably, the translation is definitely not accurate because its machine translated because I don't speak Chinese lol.
