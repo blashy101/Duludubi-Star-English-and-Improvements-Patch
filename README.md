@@ -41,3 +41,5 @@ There will be bugs probably, the translation is definitely not accurate because 
 Have fun!
 
 (Tested on Windows 10 and 11, appears to be working appropriately)
+
+Update: uploaded python script for handling game's main resource file "Resource.zhp" and C++ VS project for custom dinput8.dll
