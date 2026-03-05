@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 42CC-4203
+
+ Directory of C:\Users\zeckd\source\repos\dinput8\include
+
+12/15/2025  01:57 AM    <DIR>          .
+12/15/2025  01:57 AM    <DIR>          ..
+12/15/2025  01:57 AM                 0 includedir.txt
+11/03/2025  03:09 AM             7,529 MinHook.h
+               2 File(s)          7,529 bytes
+               2 Dir(s)  500,955,148,288 bytes free

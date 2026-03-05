@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 42CC-4203
+
+ Directory of C:\Users\zeckd\source\repos\dinput8\hde
+
+12/15/2025  01:57 AM    <DIR>          .
+12/15/2025  01:57 AM    <DIR>          ..
+11/03/2025  03:09 AM             9,318 hde32.c
+11/03/2025  03:09 AM             2,450 hde32.h
+11/03/2025  03:09 AM             9,507 hde64.c
+11/03/2025  03:09 AM             2,602 hde64.h
+12/15/2025  01:57 AM                 0 hdedir.txt
+11/03/2025  03:09 AM             1,662 pstdint.h
+11/03/2025  03:09 AM             3,508 table32.h
+11/03/2025  03:09 AM             3,577 table64.h
+               8 File(s)         32,624 bytes
+               2 Dir(s)  500,955,471,872 bytes free

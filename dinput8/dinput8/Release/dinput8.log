@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\zeckd\source\repos\dinput8\Release\dinput8.lib and object C:\Users\zeckd\source\repos\dinput8\Release\dinput8.exp
+  Generating code
+  18 of 123 functions (14.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  dinput8.vcxproj -> C:\Users\zeckd\source\repos\dinput8\Release\dinput8.dll
